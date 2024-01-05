@@ -1,2 +1,2 @@
-# stellar
+# Stellar
 A dream journal app
